@@ -1,4 +1,4 @@
-# intro2DS
+# Intro2DS
 
 | Class No. |Topic|
 |-----------|-----|
